@@ -7,8 +7,11 @@
 
   "permissions": [
     "*://*.kidsnote.com/*",
-    "webRequest",
-    "webRequestBlocking"
+
+		"storage",
+		"webRequest",
+		"webRequestBlocking",
+		"<all_urls>"
   ],
 
   "background": {
