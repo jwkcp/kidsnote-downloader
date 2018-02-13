@@ -3,7 +3,7 @@
 
   "name": "키즈노트에서 사진/동영상 다운로드 받기",
   "description": "Helper application to download picture and video from Kidsnote service for there parents",
-  "version": "1.3",
+  "version": "1.4",
 
   "permissions": [
     "*://*.kidsnote.com/*",
