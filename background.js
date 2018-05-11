@@ -9,7 +9,7 @@ var requestListener = function(details){
 	var flag = false,
 		rule = {
 			name: "Origin",
-			value: "http://evil.com/"
+			value: "https://www.kidsnote.com/"
 		};
 	var i;
 
